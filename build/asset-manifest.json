@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63fe4cbd.css",
+    "main.js": "/static/js/main.0c402517.js",
+    "static/media/homevideo.mp4": "/static/media/homevideo.d28831bc5d9eeb4a9a44.mp4",
+    "static/media/bg2.mp4": "/static/media/bg2.7d1ea6a94986d5c2a068.mp4",
+    "static/media/Jaypore_Ecom.png": "/static/media/Jaypore_Ecom.eee8b3d42ceaabf768c1.png",
+    "static/media/emproto1.jpg": "/static/media/emproto1.37160318282a51dd1fcc.jpg",
+    "static/media/Boonoz.jpg": "/static/media/Boonoz.774c233627028787327f.jpg",
+    "static/media/hoabl.png": "/static/media/hoabl.40e0ec47a4030644ba53.png",
+    "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
+    "static/media/sekeron_img.png": "/static/media/sekeron_img.d387009b575e6dec7548.png",
+    "static/media/DIN Pro Medium 500.otf": "/static/media/DIN Pro Medium 500.16a72c6a374a9c9a2572.otf",
+    "static/media/kkk.jpg": "/static/media/kkk.dc1107183440fddf8397.jpg",
+    "static/media/resume.pdf": "/static/media/resume.c42535d6938e9d58710e.pdf",
+    "static/media/Indusind_bank.jpg": "/static/media/Indusind_bank.d773cee25cf2f249150b.jpg",
+    "static/media/krishna_logo.png": "/static/media/krishna_logo.d92fb62664197dc7f524.png",
+    "static/media/AlbertSans-Light.ttf": "/static/media/AlbertSans-Light.649145226406dc2fb807.ttf",
+    "static/media/AlbertSans-Medium.ttf": "/static/media/AlbertSans-Medium.c3f1d8a167a0d1904aa3.ttf",
+    "static/media/AlbertSans-Regular.ttf": "/static/media/AlbertSans-Regular.fb5ac046b43d1229b7d1.ttf",
+    "static/media/AlbertSans-SemiBold.ttf": "/static/media/AlbertSans-SemiBold.7007cf8cf61907544de8.ttf",
+    "static/media/AlbertSans-Bold.ttf": "/static/media/AlbertSans-Bold.4ca03ca7084a3a99dac0.ttf",
+    "static/media/react_rtk.webp": "/static/media/react_rtk.1d209a0adf3df866c451.webp",
+    "static/media/git_logo.png": "/static/media/git_logo.8595fd589fb11af06e65.png",
+    "static/media/reactjs.png": "/static/media/reactjs.eb0f58cf7cb8f4d8912b.png",
+    "static/media/redux_saga.webp": "/static/media/redux_saga.fb7343f88150d7aea01f.webp",
+    "static/media/pwa_reactjs.png": "/static/media/pwa_reactjs.7cb7351d5f69db572df4.png",
+    "static/media/emprot2.jpg": "/static/media/emprot2.708a50692f0232be18ae.jpg",
+    "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/jest_testing.webp": "/static/media/jest_testing.17c4cec68d3e4cba0c68.webp",
+    "static/media/javascript_logo.webp": "/static/media/javascript_logo.2888c0a080c1a9d407b0.webp",
+    "index.html": "/index.html",
+    "static/media/css_logo.svg": "/static/media/css_logo.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "main.63fe4cbd.css.map": "/static/css/main.63fe4cbd.css.map",
+    "main.0c402517.js.map": "/static/js/main.0c402517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63fe4cbd.css",
+    "static/js/main.0c402517.js"
+  ]
+}
